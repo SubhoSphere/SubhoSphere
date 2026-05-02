@@ -14,7 +14,7 @@
 
 ---
 
-## ⚡ THE "STEALTH" PROTOCOL
+## ⚡ ABOUT ME
 
 > **[ CLASSIFIED OPERATIONS ]**
 > As a hybrid Senior Engineer and Graphic Designer working on high-impact, proprietary systems, the majority of my source code and design assets are secured under strict NDAs and private repositories. Beyond engineering and design, my strategic focus extends into **Global Markets & Trading**—analyzing complex financial ecosystems and market telemetry. The focus here is on **Challenges Solved**, **Architectural & Design Decisions**, and **Business Impact** rather than public file structures.
