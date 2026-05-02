@@ -196,11 +196,11 @@
 ## 📡 ENCRYPTED CONTACT
 
 <p align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:subhajitmandal42033@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL_SECURE_CHANNEL-000000?style=for-the-badge&logo=protonmail&logoColor=00f2ff&borderColor=00f2ff" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/subhajit-mandal-dev">
     <img src="https://img.shields.io/badge/LINKEDIN_NETWORK-000000?style=for-the-badge&logo=linkedin&logoColor=bc13fe&borderColor=bc13fe" alt="LinkedIn" />
   </a>
 </p>
