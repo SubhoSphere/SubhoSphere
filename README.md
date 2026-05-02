@@ -116,7 +116,7 @@
 *Modern E-Commerce Platform*
 
 <a href="#">
-  <img src="https://via.placeholder.com/1200x400/000000/00f2ff?text=NUTRAZE+ECOMMERCE" alt="Nutraze Banner" width="100%" />
+  <img src="https://res.cloudinary.com/drfodwc7q/image/upload/v1775838929/nutraze_r6xwhp.png" alt="Nutraze Banner" width="100%" />
 </a>
 
 **Overview:** Architected a high-performance e-commerce platform featuring secure checkout workflows, dynamic delivery timelines, and robust order lifecycle management.
@@ -144,6 +144,38 @@
 
 <br>
 
+### 6. ROOM HOVER ![Private Repo Badge](https://img.shields.io/badge/PRIVATE_REPO-00f2ff?style=flat-square)
+*Industrial-Grade Property Management Platform*
+
+<a href="#">
+  <img src="https://res.cloudinary.com/drfodwc7q/image/upload/v1777711500/RoomHover_pqkdw4.png" alt="Room Hover Banner" width="100%" />
+</a>
+
+**Overview:** Engineered a robust, three-tier utilitarian property rental ecosystem empowering tenants, landlords, and administrators with streamlined control interfaces.
+
+**Technical Highlights:**
+- **Utilitarian UI Architecture:** Developed a fast, functional interface using Next.js 15 (App Router), Tailwind CSS, and Radix UI Primitives, prioritizing raw performance and dark-mode native readability.
+- **Multi-Role Operations Engine:** Implemented distinct workflows for Admin oversight, Landlord lease management, and Tenant applications.
+- **High-Performance Data & Auth:** Integrated Redux Toolkit for instantaneous state updates and hardened security protocols via `better-auth` backed by a Prisma/Mongoose hybrid database model.
+
+<br>
+
+### 7. AIRUP ![Proprietary Badge](https://img.shields.io/badge/PROPRIETARY-bc13fe?style=flat-square)
+*Tactical Hydration Web Experience*
+
+<a href="#">
+  <img src="https://res.cloudinary.com/drfodwc7q/image/upload/v1775838873/airup_wln8aj.png" alt="AirUp Banner" width="100%" />
+</a>
+
+**Overview:** Engineered a high-performance, scroll-responsive web experience combining cutting-edge 3D visualization with a premium, mission-ready tactical aesthetic.
+
+**Technical Highlights:**
+- **Interactive 3D Engine:** Developed real-time, high-fidelity 3D loadout inspections utilizing React Three Fiber and Drei within a Next.js 15 environment.
+- **Fluid Scroll Telemetry:** Implemented advanced scroll-responsive interactivity using GSAP animations to dynamically reveal technical specifications based on user navigation.
+- **Adaptive Tactical Design:** Architected a sophisticated "Forged in the Dark" design system with Tailwind CSS 4.0, optimized for both urban exploration and command center viewing.
+
+<br>
+
 > *... and dozens of other high-impact, proprietary systems engineered in the shadows.*
 
 </div>
@@ -153,11 +185,10 @@
 ## 📊 TELEMETRY & STATS
 
 <p align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=00f2ff&icon_color=bc13fe&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SubhoSphere&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=00f2ff&icon_color=bc13fe&text_color=ffffff" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=radical&layout=compact&hide_border=true&bg_color=000000&title_color=00f2ff&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhoSphere&theme=radical&layout=compact&hide_border=true&bg_color=000000&title_color=00f2ff&text_color=ffffff" alt="Top Languages" />
 </p>
 
 ---
