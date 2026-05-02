@@ -64,35 +64,87 @@
 
 <div align="left">
 
-### 1. KURUSETRA ![Proprietary Badge](https://img.shields.io/badge/PROPRIETARY-bc13fe?style=flat-square)
-*Game Design & Web UI: Cinematic Cyberpunk Landing Page*
+### 1. ZENTRO ![Private Repo Badge](https://img.shields.io/badge/PRIVATE_REPO-00f2ff?style=flat-square)
+*Local Service Marketplace Platform*
 
 <a href="#">
-  <img src="https://via.placeholder.com/1200x400/000000/00f2ff?text=KURUSETRA+PROJECT" alt="Kurusetra Banner" width="100%" />
+  <img src="https://via.placeholder.com/1200x400/000000/bc13fe?text=ZENTRO+MARKETPLACE" alt="Zentro Banner" width="100%" />
 </a>
 
-**Overview:** Transitioned a static prototype into a premium, "million-dollar" application tailored for a high-end gaming audience.
+**Overview:** Engineered a production-grade, microservices-driven service marketplace connecting local providers and consumers in a unified ecosystem.
 
 **Technical Highlights:**
-- **Dynamic Framer Motion integration** for a cohesive, immersive cyberpunk aesthetic.
-- **High-fidelity video hero** with optimized bottom-left CTA placement for maximum conversion.
-- Custom CSS design systems engineered for scalable, vibrant neon-accented layouts.
+- **Scalable Microservices Architecture:** Designed an API Gateway routing to independent Node.js/Express services (Auth, Booking, Notifications) using a shared Prisma/MongoDB schema.
+- **Unified Native Experience:** Built a premium mobile application with React Native, Expo, and NativeWind, featuring seamless role-switching between Consumers and Workers.
+- **Real-Time Marketplace Engine:** Implemented integrated chat systems, secure multi-method wallet payments, and smart notifications to drive high-conversion user engagement.
 
 <br>
 
-### 2. ZENTRO ![Private Repo Badge](https://img.shields.io/badge/PRIVATE_REPO-00f2ff?style=flat-square)
-*Enterprise Fintech Architecture*
+### 2. ROUTEPLUS ![Proprietary Badge](https://img.shields.io/badge/PROPRIETARY-bc13fe?style=flat-square)
+*AI-Powered Traffic Intelligence Platform*
 
 <a href="#">
-  <img src="https://via.placeholder.com/1200x400/000000/bc13fe?text=ZENTRO+FINTECH+APP" alt="Zentro Banner" width="100%" />
+  <img src="https://via.placeholder.com/1200x400/000000/00f2ff?text=ROUTEPLUS+INTELLIGENCE" alt="RoutePlus Banner" width="100%" />
 </a>
 
-**Overview:** Engineered a scalable frontend architecture and expanded the backend schema for a production-critical financial application.
+**Overview:** Engineered an industrial-scale surveillance platform leveraging deep neural networks to monitor traffic flow, detect violations in real-time, and generate actionable analytics.
 
 **Technical Highlights:**
-- **Robust Session Persistence:** Solved complex rehydration issues to ensure seamless user experiences across devices.
-- **Financial Schema Modeling:** Implemented complex Wallet, Payouts, and Transaction architecture ready for a full-market launch.
-- **Premium Consumer Interface:** Redesigned applications to achieve a high-conversion, unified brand experience.
+- **Neural Video Processing:** Implemented Ultralytics YOLOv8 and OpenCV on a high-performance FastAPI backend for real-time detection of helmet violations, speeding, and signal jumps (>98% accuracy).
+- **Premium Analytics Dashboard:** Built a responsive, glassmorphic Next.js interface with Tailwind CSS and Recharts to visualize edge processing telemetry and live HLS/RTSP streams.
+- **Automated Evidence Logging:** Architected a continuous incident recording system with high-resolution evidence hash verification backed by MongoDB.
+
+<br>
+
+### 3. GRAMEEN ![Private Repo Badge](https://img.shields.io/badge/PRIVATE_REPO-00f2ff?style=flat-square)
+*Agricultural Supply Chain & Marketplace Ecosystem*
+
+<a href="#">
+  <img src="https://via.placeholder.com/1200x400/000000/bc13fe?text=GRAMEEN+ECOSYSTEM" alt="Grameen Banner" width="100%" />
+</a>
+
+**Overview:** Architected a comprehensive full-stack platform designed to digitize the agricultural supply chain, bridging the micro-logistics gap between rural farmers, urban consumers, and delivery personnel.
+
+**Technical Highlights:**
+- **Tri-Role Mobile Application:** Developed a unified React Native (Expo) app with complex file-based routing to serve distinct Consumer, Farmer, and Delivery interfaces seamlessly.
+- **Real-Time Logistics Engine:** Engineered a robust Node.js/Express backend utilizing Socket.io for live order telemetry, OTP-verified delivery tracking, and real-time status updates.
+- **Scalable Data Architecture:** Leveraged MongoDB with Prisma ORM for highly relational inventory management, cross-entity order flow, and agri-tourism scheduling.
+
+<br>
+
+### 4. NUTRAZE ![Private Repo Badge](https://img.shields.io/badge/PRIVATE_REPO-00f2ff?style=flat-square)
+*Modern E-Commerce Platform*
+
+<a href="#">
+  <img src="https://via.placeholder.com/1200x400/000000/00f2ff?text=NUTRAZE+ECOMMERCE" alt="Nutraze Banner" width="100%" />
+</a>
+
+**Overview:** Architected a high-performance e-commerce platform featuring secure checkout workflows, dynamic delivery timelines, and robust order lifecycle management.
+
+**Technical Highlights:**
+- **Secure Financial Transactions:** Integrated Stripe Checkout with rigorous webhook verification for reliable payment confirmation, preventing duplicate executions and managing atomic stock deductions.
+- **Advanced State & Routing:** Leveraged Next.js (App Router) and server-side authorization for protected routes, coupled with dynamic UI updates for real-time order tracking.
+- **Relational Data Integrity:** Utilized Prisma ORM with MongoDB to model complex order lifecycles and enforce transaction-safe inventory management.
+
+<br>
+
+### 5. LOSTBOX ![Private Repo Badge](https://img.shields.io/badge/PRIVATE_REPO-00f2ff?style=flat-square)
+*Community-Driven Recovery Platform*
+
+<a href="#">
+  <img src="https://via.placeholder.com/1200x400/000000/bc13fe?text=LOSTBOX+RECOVERY" alt="LostBox Banner" width="100%" />
+</a>
+
+**Overview:** Engineered a secure, high-performance community platform designed to reunite lost belongings with their owners through intelligent categorization and localized searches.
+
+**Technical Highlights:**
+- **Immersive 3D UI:** Developed fluid, interactive front-end experiences utilizing GSAP animations and React Three Fiber (Three.js) within a Next.js 15 environment.
+- **Security Architecture:** Implemented comprehensive server-side auth guards, strict Zod schema validation, and secure session management using Better-Auth.
+- **Media & Telemetry:** Integrated Cloudinary for secure multi-file uploads and Nodemailer for real-time, vicinity-based smart notifications.
+
+<br>
+
+> *... and dozens of other high-impact, proprietary systems engineered in the shadows.*
 
 </div>
 
@@ -113,11 +165,11 @@
 ## 📡 ENCRYPTED CONTACT
 
 <p align="center">
-  <a href="mailto:subhajitmandal42033@gmail.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/EMAIL_SECURE_CHANNEL-000000?style=for-the-badge&logo=protonmail&logoColor=00f2ff&borderColor=00f2ff" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/subhajit-mandal-dev">
+  <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LINKEDIN_NETWORK-000000?style=for-the-badge&logo=linkedin&logoColor=bc13fe&borderColor=bc13fe" alt="LinkedIn" />
   </a>
 </p>
