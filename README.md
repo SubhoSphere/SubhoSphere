@@ -194,17 +194,6 @@
 
 ---
 
-## 📊 TELEMETRY & STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SubhoSphere&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=000000&title_color=00f2ff&icon_color=bc13fe&text_color=ffffff" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhoSphere&theme=radical&layout=compact&hide_border=true&bg_color=000000&title_color=00f2ff&text_color=ffffff" alt="Top Languages" />
-</p>
-
----
-
 ## 📡 ENCRYPTED CONTACT
 
 <p align="center">
