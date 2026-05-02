@@ -17,7 +17,7 @@
 ## ⚡ THE "STEALTH" PROTOCOL
 
 > **[ CLASSIFIED OPERATIONS ]**
-> As a hybrid Senior Engineer and Graphic Designer working on high-impact, proprietary systems, the majority of my source code and design assets are secured under strict NDAs and private repositories. The focus here is on **Challenges Solved**, **Architectural & Design Decisions**, and **Business Impact** rather than public file structures.
+> As a hybrid Senior Engineer and Graphic Designer working on high-impact, proprietary systems, the majority of my source code and design assets are secured under strict NDAs and private repositories. Beyond engineering and design, my strategic focus extends into **Global Markets & Trading**—analyzing complex financial ecosystems and market telemetry. The focus here is on **Challenges Solved**, **Architectural & Design Decisions**, and **Business Impact** rather than public file structures.
 
 ---
 
@@ -31,6 +31,7 @@
 ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=00f2ff)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00f2ff)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ffffff)
 
 ### > FRONTEND_SYSTEMS
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00f2ff)
@@ -38,6 +39,9 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js&logoColor=00f2ff)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=bc13fe)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge&logo=framer&logoColor=00f2ff)
+![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=ffffff)
+![GSAP](https://img.shields.io/badge/GSAP-000000?style=for-the-badge&logo=greensock&logoColor=00f2ff)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=ffffff)
 
 ### > BACKEND_INFRASTRUCTURE
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00f2ff)
@@ -47,12 +51,20 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00f2ff)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=ffffff)
 
+### > WEB3_&_BLOCKCHAIN
+![Blockchain](https://img.shields.io/badge/Blockchain-000000?style=for-the-badge&logo=web3dotjs&logoColor=00f2ff)
+![Solidity](https://img.shields.io/badge/Solidity-000000?style=for-the-badge&logo=solidity&logoColor=ffffff)
+![Ethereum](https://img.shields.io/badge/Ethereum-000000?style=for-the-badge&logo=ethereum&logoColor=bc13fe)
+
+
 ### > DESIGN_&_CREATIVE
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00f2ff)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=ffffff)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-000000?style=for-the-badge&logo=adobeillustrator&logoColor=00f2ff)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-000000?style=for-the-badge&logo=adobepremierepro&logoColor=bc13fe)
 ![Blender](https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=00f2ff)
+![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=ffffff)
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=bc13fe)
 
 ### > GAME_DEV
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=ffffff)
