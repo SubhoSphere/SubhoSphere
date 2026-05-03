@@ -3,17 +3,6 @@
 <!-- Header using capsule-render -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00f2ff&height=250&section=header&text=RESPONSIBLE%20INNOVATION&fontSize=50&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20|%20Graphic%20Designer&descAlignY=55&descAlign=50&fontColor=ffffff" alt="Header" />
 
-<!-- Navigation -->
-<p align="center">
-  <a href="#about"><img src="https://img.shields.io/badge/ABOUT-000000?style=for-the-badge&logo=opslevel&logoColor=00f2ff&borderColor=00f2ff" alt="About" /></a>
-  &nbsp;&nbsp;
-  <a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-000000?style=for-the-badge&logo=target&logoColor=bc13fe&borderColor=bc13fe" alt="Projects" /></a>
-  &nbsp;&nbsp;
-  <a href="#contact"><img src="https://img.shields.io/badge/CONTACT-000000?style=for-the-badge&logo=minutemailer&logoColor=00f2ff&borderColor=00f2ff" alt="Contact" /></a>
-</p>
-
----
-
 ## ⚡ ABOUT ME
 
 > **[ CLASSIFIED OPERATIONS ]**
